@@ -8,7 +8,7 @@ Junior **Fullstack web developer** specialized in:
 
 - 🗃️ Database management with SQL
 
--  <picture><img alt="Le Wagon's logo." src="https://etudestech.com/wp-content/uploads/2021/07/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" width="25px" height="25px"></picture>  Recently completed a 3-month bootcamp with Le Wagon school where I gained experience collaborating on large-scale web development projects.
+-  <picture><img alt="Le Wagon's logo." src="https://etudestech.com/wp-content/uploads/2021/07/}-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" width="25px" height="25px"></picture>  Recently completed a 3-month bootcamp with Le Wagon school where I gained experience collaborating on large-scale web development projects.
 
 
 Always learning and testing new dev stuff.
