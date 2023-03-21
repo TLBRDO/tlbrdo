@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+<center>Welcome to my GitHub profile!</center>
 
 💻 Junior Fullstack web developer specialized in:
 
