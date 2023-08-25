@@ -4,7 +4,7 @@ Junior **Fullstack web developer** specialized in:
 
 - 💾 Back-end development with **Ruby on Rails**
 
-- 🎨 Front-end development with HTML, CSS, JavaScript and Stimulus
+- 🎨 Front-end development with HTML, CSS, JavaScript and Stimulus, ReactJS.
 
 - 🗃️ Database management with SQLite/Postgre
 
